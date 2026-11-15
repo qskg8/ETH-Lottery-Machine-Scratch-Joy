@@ -36,6 +36,10 @@ https://github.com/qskg8
 
 https://8818.hidns.co/
 
+##  官网地址
+
+[https://8818.hidns.co/](https://t.me/eth18188)
+
 ## 免责声明
 
     本软件按原样提供，不提供任何保证。使用风险自负。
