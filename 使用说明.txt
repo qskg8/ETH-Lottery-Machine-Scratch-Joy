@@ -1,0 +1,46 @@
+# ETH Lottery Machine Scratch Joy
+
+##  ETH活跃地址扫描器5.0
+ms-playwright文件夹是浏览器文件 请勿删除
+
+ms-playwright文件夹是浏览器文件 切勿删除 
+
+ETH5.0 有2个版本 
+
+一个随机扫描全部页码的上半份部分 一个是下半份部分  随便哪个都行
+
+
+##  专门用于扫描privatekeyfinder.io网站上的以太坊私钥页面，
+
+检测是否存在活跃钱包地址，并在发现时自动保存活跃钱包的页码。
+
+发现活跃钱包页码保存在found_active_pages.txt内
+
+本程序是单线程，速度较慢，无需消耗本地资源，无需RPC查询余额
+
+单纯依靠privatekeyfinder的内置查询节点
+
+##  打赏作者
+
+BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
+
+ETH：0x042ce53c4e305c5ad5415fef5ef4b415a48d199d
+
+TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
+
+##  作者的github
+
+https://github.com/qskg8
+
+##  官网地址
+
+https://8818.hidns.co/
+
+##  Telegram
+
+https://t.me/+UZP7Rc6MgGc4NTRl
+
+## 免责声明
+
+    本软件按原样提供，不提供任何保证。使用风险自负。
+    本软件仅用于教育目的。未经他人许可，请勿使用它来破解他人的钱包。
