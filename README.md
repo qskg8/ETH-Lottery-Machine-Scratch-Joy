@@ -36,9 +36,9 @@ https://github.com/qskg8
 
 https://8818.hidns.co/
 
-##  官网地址
+##  Telegram
 
-[https://8818.hidns.co/](https://t.me/eth18188)
+https://t.me/+UZP7Rc6MgGc4NTRl
 
 ## 免责声明
 
