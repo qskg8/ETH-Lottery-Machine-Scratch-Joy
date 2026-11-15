@@ -1,4 +1,4 @@
-# ETHScratch-and-Win
+# ETH Lottery Machine Scratch Joy
 
 ##  ETH活跃地址扫描器5.0
 ms-playwright文件夹是浏览器文件 请勿删除
